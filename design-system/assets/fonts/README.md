@@ -1,10 +1,22 @@
 # Fonts
 
-Add licensed font files or font usage notes here when they are available.
+This folder contains local font files for the UA Help Context design system.
 
-Recommended typography direction:
+## Included files
 
-- Primary: Inter
-- Fallback: Manrope, Noto Sans, system-ui, sans-serif
+- `Inter-variable.ttf` - primary UI and promotional typography.
+- `Manrope-variable.ttf` - fallback or alternate Ukrainian-friendly sans serif.
+- `NotoSans-variable.ttf` - broad fallback for multilingual support.
+- `fonts.css` - local `@font-face` declarations for these files.
 
-No font files are currently present in this repository.
+## Licenses
+
+These fonts are from the official Google Fonts repository and are distributed under the SIL Open Font License.
+
+License copies:
+
+- `Inter-OFL.txt`
+- `Manrope-OFL.txt`
+- `NotoSans-OFL.txt`
+
+Use `Inter` as the primary font in Claude Design when possible.

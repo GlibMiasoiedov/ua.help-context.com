@@ -9,16 +9,16 @@ Upload or connect the full `design-system/` folder so Claude Design can read:
 - `brand.md` for the brand story, voice, visual direction, and avoid list.
 - `brand.json` for structured brand metadata.
 - `tokens.css` for reusable colors, typography, spacing, and radius variables.
-- `assets/` for logos, fonts, images, and icons when real project assets are added.
+- `assets/` for logos, fonts, images, and icons.
 
 ## Current asset status
 
-The repository currently does not include real frontend files, logos, favicons, screenshots, fonts, images, or icon files. The asset folders contain placeholder README files only.
+The repository currently includes local font files for Inter, Manrope, and Noto Sans. It does not yet include real frontend files, logos, favicons, screenshots, images, or icon files.
 
 Add approved brand assets manually to these folders when available:
 
 - `assets/logos/` - official logo files, logomarks, wordmarks, and favicon exports.
-- `assets/fonts/` - licensed font files or font usage notes.
+- `assets/fonts/` - local font files, license files, and `fonts.css`.
 - `assets/images/` - approved screenshots, promotional images, and documentary-style visuals.
 - `assets/icons/` - approved icon files or reusable icon references.
 
