@@ -1,0 +1,39 @@
+{
+  "name": "UA Help Context Icons",
+  "style": "simple line icons",
+  "format": "svg",
+  "viewBox": "0 0 24 24",
+  "stroke": "currentColor",
+  "icons": [
+    {
+      "name": "context-bubble",
+      "file": "svg/context-bubble.svg",
+      "usage": "Context, explanation, helpful information"
+    },
+    {
+      "name": "guidance-path",
+      "file": "svg/guidance-path.svg",
+      "usage": "Practical next steps, direction, guidance"
+    },
+    {
+      "name": "help-hand",
+      "file": "svg/help-hand.svg",
+      "usage": "Support, help, human assistance"
+    },
+    {
+      "name": "search-context",
+      "file": "svg/search-context.svg",
+      "usage": "Finding relevant information and context"
+    },
+    {
+      "name": "shield-check",
+      "file": "svg/shield-check.svg",
+      "usage": "Trust, safety, reliability"
+    },
+    {
+      "name": "steps-list",
+      "file": "svg/steps-list.svg",
+      "usage": "Clear process, checklist, action steps"
+    }
+  ]
+}

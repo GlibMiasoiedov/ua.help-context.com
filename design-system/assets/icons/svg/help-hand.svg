@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Help hand icon">
+  <path d="M4 14.5h3.2l2.3 2.3a3 3 0 0 0 2.1.9H15a2 2 0 0 0 2-2"/>
+  <path d="M7.2 14.5 10 11.7a2.4 2.4 0 0 1 3.4 0l.8.8"/>
+  <path d="M13.5 15.5h3.2l2.4-2.4a2.1 2.1 0 0 1 3 0"/>
+  <path d="M4 11v8"/>
+  <path d="M20 10v7"/>
+  <path d="M11 5.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 0 0-5 0Z"/>
+</svg>

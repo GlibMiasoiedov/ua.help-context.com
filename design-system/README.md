@@ -13,13 +13,13 @@ Upload or connect the full `design-system/` folder so Claude Design can read:
 
 ## Current asset status
 
-The repository currently includes local font files for Inter, Manrope, and Noto Sans. It does not yet include real frontend files, logos, favicons, screenshots, images, or icon files.
+The repository currently includes local font files for Inter, Manrope, and Noto Sans, plus a small SVG icon set for promotional graphics. It does not yet include real frontend files, logos, favicons, screenshots, or image files.
 
 Add approved brand assets manually to these folders when available:
 
 - `assets/logos/` - official logo files, logomarks, wordmarks, and favicon exports.
 - `assets/fonts/` - local font files, license files, and `fonts.css`.
 - `assets/images/` - approved screenshots, promotional images, and documentary-style visuals.
-- `assets/icons/` - approved icon files or reusable icon references.
+- `assets/icons/` - approved SVG icon files and icon metadata.
 
 Do not use random generated logos as official brand assets without confirmation.
