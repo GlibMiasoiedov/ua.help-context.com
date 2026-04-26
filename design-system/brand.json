@@ -1,0 +1,32 @@
+{
+  "name": "UA Help Context",
+  "blurb": "UA Help Context is a Ukrainian informational and promotional web project focused on giving people clear context, guidance, and practical next steps.",
+  "voice": [
+    "calm",
+    "clear",
+    "supportive",
+    "practical",
+    "trustworthy"
+  ],
+  "colors": {
+    "text": "#111827",
+    "background": "#FFFFFF",
+    "surface": "#F3F4F6",
+    "primary": "#2563EB",
+    "accent": "#FACC15",
+    "support": "#16A34A"
+  },
+  "typography": {
+    "primary": "Inter",
+    "fallback": "Manrope, Noto Sans, system-ui, sans-serif",
+    "headings": "Bold, clear, confident",
+    "body": "Readable, calm, accessible"
+  },
+  "style": {
+    "layout": "clean, minimal, spacious",
+    "imagery": "human-centered, documentary, light, practical",
+    "icons": "simple line icons",
+    "corners": "slightly rounded",
+    "tone": "modern Ukrainian civic/help project"
+  }
+}
